@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761841649850",
+    "project_id": "palawa-services",
+    "storage_bucket": "palawa-services.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761841649850:android:d5d64e436328acc64c9a83",
+        "android_client_info": {
+          "package_name": "com.example.palawa_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS0gUa25G18KEb4fgDszIb7xQesBjMENc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
